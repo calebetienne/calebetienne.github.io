@@ -4,4 +4,10 @@ html {
 }
 body {
   text-align: center;
+  padding-top: 350px;
+  margin-bottom: 50px;
+  background-color:#edede9;
+}
+button {
+  font-style:italic;
 }
